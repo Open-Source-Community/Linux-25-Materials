@@ -14,7 +14,7 @@
 
 ## Task 💻
 
-Coming soon!
+- [Task Description](Task_3.md)
 
 ## Resources 🖊️
 
