@@ -14,6 +14,7 @@ Materials and resources from the OSC Linux '25 season, covering topics taught du
 | [Session 2](beginner/Session_2) | Navigating the CLI    |
 | [Session 3](beginner/Session_3) | Git Internals         |
 | [Session 4](beginner/Session_4) | Git, Continued        |
+| [Session 5](beginner/Session_5) | Vim        |
 
 ## Advanced Content 🚀
 
