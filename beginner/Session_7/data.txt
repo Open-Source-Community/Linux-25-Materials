@@ -1,0 +1,6 @@
+Our neighborhood’s new GreenTech Hub is thriving! Volunteers can sign up at https://greentech-community.org/signup or call our coordination team +2013456789544 for inquiries.
+The project uses IoT sensors (accessible via http://192.168.1.55/dashboard) to monitor soil health, and live data streams are hosted at http://files.greentech.net/weather_reports.
+For quick updates, text "GARDEN" to 011555698888 or visit our FAQ page: https://support.greentech.org?topic=gardens.
+We’ve also launched a fun scavenger hunt! Find hidden QR codes linked to 172.16.254.1:8080/clues, but watch out for the fake IP 999.450.23.1 planted as a decoy.
+Join our weekend workshop at www.greentech-events.local (note: missing protocol), or dial our 24/7 hotline: +44 20 7946 0123.
+Forgot the main site? Try the backup IP http://10.0.0.1!
