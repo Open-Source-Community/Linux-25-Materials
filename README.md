@@ -16,6 +16,8 @@ Materials and resources from the OSC Linux '25 season, covering topics taught du
 | [Session 4](beginner/Session_4) | Git, Continued        |
 | [Session 5](beginner/Session_5) | Vim        |
 | [Session 6](beginner/Session_6) | Users and Groups + Compression and Archiving      |
+| [Session 6](beginner/Session_7) | Text Processing      |
+
 ## Advanced Content 🚀
 
 | Session                         | Topic                    |
