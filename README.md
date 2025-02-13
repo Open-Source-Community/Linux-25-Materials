@@ -18,6 +18,7 @@ Materials and resources from the OSC Linux '25 season, covering topics taught du
 | [Session 6](beginner/Session_6) | Users and Groups + Compression and Archiving      |
 | [Session 7](beginner/Session_7) | Text Processing      |
 
+
 ## Advanced Content 🚀
 
 | Session                         | Topic                    |
