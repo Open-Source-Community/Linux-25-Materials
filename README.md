@@ -18,7 +18,7 @@ Materials and resources from the OSC Linux '25 season, covering topics taught du
 | [Session 6](beginner/Session_6) | Users and Groups + Compression and Archiving      |
 | [Session 7](beginner/Session_7) | Text Processing      |
 | [Session 8](beginner/Session_8) | Bash Scripting P1      |
-
+| [Session 9](beginner/Session_9) | Bash Scripting P2      |
 ## Advanced Content 🚀
 
 | Session                         | Topic                    |
