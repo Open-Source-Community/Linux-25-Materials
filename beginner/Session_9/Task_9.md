@@ -30,7 +30,7 @@ Create a simple login system where the user can select different access levels.
 
 ---
 
-### **Task 4: Countdown Timer** (Covers: Loops, Functions)  
+### **Task 3: Countdown Timer** (Covers: Loops, Functions)  
 #### **Objective:**  
 Create a countdown timer where the user enters a number, and the script counts down to zero.  
 
@@ -43,7 +43,7 @@ Create a countdown timer where the user enters a number, and the script counts d
 
 ---
 
-### **Task 5: Linux System Manager Script**  
+### **Task 4: Linux System Manager Script**  
 
 ### **What Your Script Should Do:**  
 Your script should display a menu with the following options:  
@@ -143,3 +143,20 @@ Exiting the system manager. Goodbye!
 ```
 
 ---
+## **📜 Task Delivery Instructions**  
+
+1. If you haven’t set up your task repository, follow [this guide](https://discord.com/channels/885136114275459102/892738283434541076/1314261230252462092).  
+
+2. In your repository, create a folder named **`Task_9`**.  
+
+3. Upload script files in accordance with the **instructions** provided for each task .
+
+4. Test Your Script
+
+   - Verify that all functionalities work correctly.  
+   - Check for any errors and fix them before submission.  
+
+5. It is imperative that you submit your task via **the git terminal**; any submissions made through (GUI) will not be accepted.
+
+
+🚀 **Wishing you the very best in your endeavors.** 🚀
