@@ -21,6 +21,7 @@ Materials and resources from the OSC Linux '25 season, covering topics taught du
 | [Session 9](beginner/Session_9) | Bash Scripting P2      |
 | [Session 10](beginner/Session_10) | Shell Environment + Redirecting Output |
 | [Session 11](beginner/Session_11) | Boot Process, Processes and Systemd |
+| [Session 12](beginner/Session_12) | Networking Fundamentals |
 
 ## Advanced Content 🚀
 
