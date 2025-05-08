@@ -22,6 +22,7 @@ Materials and resources from the OSC Linux '25 season, covering topics taught du
 | [Session 10](beginner/Session_10) | Shell Environment + Redirecting Output |
 | [Session 11](beginner/Session_11) | Boot Process, Processes and Systemd |
 | [Session 12](beginner/Session_12) | Networking Fundamentals |
+| [Session 13](beginner/Session_13) | Cryptography and SSH |
 
 ## Advanced Content 🚀
 
